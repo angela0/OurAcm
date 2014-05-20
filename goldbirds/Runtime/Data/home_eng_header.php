@@ -1,0 +1,1 @@
+<?php	return 'ZZULI ACM-ICPC Training Team';?>

@@ -1,0 +1,1 @@
+<?php	return 'Our ACM/ICPC Training Group';?>

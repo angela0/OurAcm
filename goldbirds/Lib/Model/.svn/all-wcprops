@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ekszz/OurAcm/!svn/ver/41/trunk/goldbirds/Lib/Model
+END
+PersonModel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ekszz/OurAcm/!svn/ver/2/trunk/goldbirds/Lib/Model/PersonModel.class.php
+END
+OjhistoryModel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ekszz/OurAcm/!svn/ver/23/trunk/goldbirds/Lib/Model/OjhistoryModel.class.php
+END
+NewsModel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ekszz/OurAcm/!svn/ver/41/trunk/goldbirds/Lib/Model/NewsModel.class.php
+END
+ContestModel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ekszz/OurAcm/!svn/ver/2/trunk/goldbirds/Lib/Model/ContestModel.class.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ekszz/OurAcm/!svn/ver/63/trunk/ThinkPHP/Extend/Vendor/phpMailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ekszz/OurAcm/!svn/ver/63/trunk/ThinkPHP/Extend/Vendor/phpMailer/LICENSE
+END
+phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ekszz/OurAcm/!svn/ver/63/trunk/ThinkPHP/Extend/Vendor/phpMailer/phpmailer.php
+END
+class.smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ekszz/OurAcm/!svn/ver/63/trunk/ThinkPHP/Extend/Vendor/phpMailer/class.smtp.php
+END

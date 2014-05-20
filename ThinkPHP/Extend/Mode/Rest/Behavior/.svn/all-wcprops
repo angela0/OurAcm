@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/Rest/Behavior
+END
+CheckRestRouteBehavior.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/Rest/Behavior/CheckRestRouteBehavior.class.php
+END
+CheckUrlExtBehavior.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/Rest/Behavior/CheckUrlExtBehavior.class.php
+END

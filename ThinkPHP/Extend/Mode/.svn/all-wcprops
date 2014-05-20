@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode
+END
+phprpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/phprpc.php
+END
+lite.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/lite.php
+END
+rest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/rest.php
+END
+thin.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/thin.php
+END
+amf.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/amf.php
+END
+cli.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ekszz/OurAcm/!svn/ver/2/trunk/ThinkPHP/Extend/Mode/cli.php
+END

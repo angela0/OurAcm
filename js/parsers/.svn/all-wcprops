@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers
+END
+parser-input-select.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-input-select.js
+END
+parser-date.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-date.js
+END
+parser-date-month.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-date-month.js
+END
+parser-date-two-digit-year.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-date-two-digit-year.js
+END
+parser-metric.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-metric.js
+END
+parser-date-iso8601.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-date-iso8601.js
+END
+parser-date-weekday.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-date-weekday.js
+END
+parser-feet-inch-fraction.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-feet-inch-fraction.js
+END
+parser-ignore-articles.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ekszz/OurAcm/!svn/ver/2/trunk/js/parsers/parser-ignore-articles.js
+END
